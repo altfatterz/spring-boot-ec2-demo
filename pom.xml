@@ -62,6 +62,7 @@
 	</dependencyManagement>
 
 	<build>
+		<finalName>spring-boot-ec2-demo</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
